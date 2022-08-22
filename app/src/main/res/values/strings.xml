@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SpotifyLab</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="your_top_genres">Your top genres</string>
+    <string name="top_christians">Top Christians</string>
+    <string name="romantic">Romantic</string>
+    <string name="pop">Pop</string>
+    <string name="latina">Latina</string>
+    <string name="Search">Search</string>
+    <string name="Your_top_genres">Your top genres</string>
+    <string name="your_library">Your Library</string>
+    <string name="most_recent">Most Recent</string>
+    <string name="liked_songs">Liked Songs</string>
+    <string name="angel_gabriel_figueroa">Angel Gabriel Figueroa</string>
+    <string name="good_morning">Good Morning,</string>
+</resources>
